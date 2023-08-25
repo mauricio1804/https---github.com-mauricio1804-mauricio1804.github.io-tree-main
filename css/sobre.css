@@ -67,3 +67,6 @@ a{
   justify-content: first baseline;
 }
 
+#texto{
+    text-align: center;
+}
